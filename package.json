@@ -94,7 +94,7 @@
     "@types/js-levenshtein": "^1.1.1",
     "chalk": "4.1.1",
     "chokidar": "^3.4.2",
-    "cookie": "^0.4.2",
+    "cookie": "^0.5.0",
     "graphql": "^15.0.0 || ^16.0.0",
     "headers-polyfill": "^3.1.2",
     "inquirer": "^8.2.0",
